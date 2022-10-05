@@ -1,4 +1,4 @@
-# Image Classification.
+# Mask Image Classification.
 
 ## Artificial Neural Networks and Deep Learning Project.
 
