@@ -2,7 +2,7 @@
 
 ## Artificial Neural Networks and Deep Learning Project.
 
-### Academic Year 2021/2022, Politecnico di Milano
+### Academic Year 2020/2021, Politecnico di Milano
 
 ### Carlo Ghiglione, Leonardo Perelli, Giacomo Vecchione
 
