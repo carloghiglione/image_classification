@@ -1,6 +1,6 @@
 # Mask Image Classification.
 
-### Artificial Neural Networks and Deep Learning - Academic Year 2020/2021 - Politecnico di Milano
+### Artificial Neural Networks and Deep Learning - A.Y. 2020/2021 - Politecnico di Milano
 
 Authors: Carlo Ghiglione, Leonardo Perelli, Giacomo Vecchione
 
